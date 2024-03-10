@@ -285,11 +285,6 @@ hash = "2239517e476557fa1e8f7d8268fccaf88d65d08b215d8baa3d5dafc15ddebf53"
 metafile = true
 
 [[files]]
-file = "mods/weeping-angels.pw.toml"
-hash = "7baee58629cbd0383c589bb6d1c043df379469b6c63b952291c626ed794c01b8"
-metafile = true
-
-[[files]]
 file = "mods/whocosmetics.pw.toml"
 hash = "17d4c0e923fcb0ff8e607117a334fc42d7ea80d3bb8648c74d2ef495e1bbd3af"
 metafile = true
