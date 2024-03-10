@@ -15,6 +15,11 @@ hash = "3246bb73bfa95570e4ef16c79b283ba595d2f3a3c37f369cd7fc07815f7a179f"
 metafile = true
 
 [[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "dc9fe65f01e38f83a145895609147e65f9af37e1460cb536795fef871a81fd5d"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "2efef40105037d802c4cd424f9831d452f2caf4bfcca41f73feb9a2c5cae01f1"
 metafile = true
@@ -27,6 +32,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "84c0488c1a1aae759c20bfcc3a6ea2a5379c777c414b4c8815f1cf97b78aa11e"
+metafile = true
+
+[[files]]
+file = "mods/bad-wither-no-cookie.pw.toml"
+hash = "6b8f9852af1c1676359c3866dd6a86cf295d149bc6e04336a49cbc3c7ec1d323"
 metafile = true
 
 [[files]]
@@ -125,8 +135,18 @@ hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
 metafile = true
 
 [[files]]
+file = "mods/fast-portals.pw.toml"
+hash = "d0457c8c7562b26e82469528c91df3a4f0abe0b4d186da822fa685f385ae96fc"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
+metafile = true
+
+[[files]]
+file = "mods/forgero.pw.toml"
+hash = "c82b24a73df0614aad869016f7f83a7c4bda0d30b0714b279ebed20b395f3b5f"
 metafile = true
 
 [[files]]
@@ -185,6 +205,11 @@ hash = "631a4aeea3ca16afe689e67c409cb39d18af269e1eecd944d042a85a88d34314"
 metafile = true
 
 [[files]]
+file = "mods/mythicmetals.pw.toml"
+hash = "d78aaf967f7051e9bbe28bff1a10da4d3a5d2f9303d87597feb9cdd69332fb80"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "df5d311dc2b08556afa338e43b69abb71448644375dd892a3dc97d455f28203c"
 metafile = true
@@ -197,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/occlusion-culling-fix-sodium.pw.toml"
 hash = "6376089e015378145857ba665a8db139a1c578c36e09313381852cebf84dab04"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
 metafile = true
 
 [[files]]
