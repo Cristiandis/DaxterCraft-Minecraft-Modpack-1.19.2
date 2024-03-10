@@ -280,11 +280,6 @@ hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
 
 [[files]]
-file = "mods/url-music-discs.pw.toml"
-hash = "02580060c2e826c3f3e9fb1d12c48efb11a23ecb4d2e2d246ffa12ead46547ef"
-metafile = true
-
-[[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "d0ad1f4d4d52d8497ced9130e5f7c66a34c5f1e83f549bc2a05ccabe50ebc9e8"
 metafile = true
