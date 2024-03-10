@@ -234,6 +234,11 @@ hash = "7ffcb13b8f899184ddc68559a5ead83e5598918eb67268c9e3f4af70cea6af8c"
 metafile = true
 
 [[files]]
+file = "mods/simple-hats.pw.toml"
+hash = "73a1fc7197efeaf12b7c96c2b443f78246c2397b3e5a2f8e3385f42b03276392"
+metafile = true
+
+[[files]]
 file = "mods/smoothboot-fabric.pw.toml"
 hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
 metafile = true
@@ -274,6 +279,11 @@ hash = "0ac5d550c5b1483b2993492cc4179c9158b5251459a36493ba37a49d1746996c"
 metafile = true
 
 [[files]]
+file = "mods/trinkets.pw.toml"
+hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
+metafile = true
+
+[[files]]
 file = "mods/url-music-discs.pw.toml"
 hash = "02580060c2e826c3f3e9fb1d12c48efb11a23ecb4d2e2d246ffa12ead46547ef"
 metafile = true
@@ -291,6 +301,16 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "2239517e476557fa1e8f7d8268fccaf88d65d08b215d8baa3d5dafc15ddebf53"
+metafile = true
+
+[[files]]
+file = "mods/weeping-angels.pw.toml"
+hash = "7baee58629cbd0383c589bb6d1c043df379469b6c63b952291c626ed794c01b8"
+metafile = true
+
+[[files]]
+file = "mods/whocosmetics.pw.toml"
+hash = "17d4c0e923fcb0ff8e607117a334fc42d7ea80d3bb8648c74d2ef495e1bbd3af"
 metafile = true
 
 [[files]]
