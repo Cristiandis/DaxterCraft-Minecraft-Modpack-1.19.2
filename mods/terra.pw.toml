@@ -1,0 +1,13 @@
+name = "Terra"
+filename = "Terra-fabric-6.2.1-BETA+358e09d05.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/FIlZB9L0/versions/PKGL45fm/Terra-fabric-6.2.1-BETA%2B358e09d05.jar"
+hash-format = "sha1"
+hash = "3ba8eb9b65860384539a0638431fbf95808f5158"
+
+[update]
+[update.modrinth]
+mod-id = "FIlZB9L0"
+version = "PKGL45fm"

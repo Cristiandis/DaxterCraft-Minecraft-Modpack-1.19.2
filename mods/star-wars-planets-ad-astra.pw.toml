@@ -1,0 +1,13 @@
+name = "Star Wars Planets Ad Astra"
+filename = "SWPlanets-fabric-1.19.2-1.0.6.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sgQirvDi/versions/2aUHcBAS/SWPlanets-fabric-1.19.2-1.0.6.2.jar"
+hash-format = "sha1"
+hash = "cf7b13ce168faf673116746f119405a2710cea99"
+
+[update]
+[update.modrinth]
+mod-id = "sgQirvDi"
+version = "2aUHcBAS"

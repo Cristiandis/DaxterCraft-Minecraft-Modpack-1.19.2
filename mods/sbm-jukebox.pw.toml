@@ -1,0 +1,13 @@
+name = "[SBM] Jukebox"
+filename = "SBM-Jukebox-fabric-1.19.2-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HmStsrlQ/versions/psZrB07F/SBM-Jukebox-fabric-1.19.2-1.0.7.jar"
+hash-format = "sha1"
+hash = "94bd818ad86d9cfe85d048888d0cde150aa6e1e1"
+
+[update]
+[update.modrinth]
+mod-id = "HmStsrlQ"
+version = "psZrB07F"
