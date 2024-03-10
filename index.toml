@@ -60,11 +60,6 @@ hash = "e1b84efda222d3d22b8b683980ef1d089ca015e0d8671cd18f2892f70d4b03e5"
 metafile = true
 
 [[files]]
-file = "mods/create-enchantment-industry-fabric.pw.toml"
-hash = "23356a49d285b0c2844a7586cffd84e5d1af7f866e3602903205a72d580d5f3f"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric-fixes.pw.toml"
 hash = "57bca070397aaac42977e563df8a1fb56702a2ac7076a8819c190259b9cf04a6"
 metafile = true
@@ -237,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/simple-hats.pw.toml"
 hash = "73a1fc7197efeaf12b7c96c2b443f78246c2397b3e5a2f8e3385f42b03276392"
+metafile = true
+
+[[files]]
+file = "mods/smoothboot-fabric.pw.toml"
+hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
 metafile = true
 
 [[files]]
