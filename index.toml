@@ -60,6 +60,11 @@ hash = "e1b84efda222d3d22b8b683980ef1d089ca015e0d8671cd18f2892f70d4b03e5"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry-fabric.pw.toml"
+hash = "23356a49d285b0c2844a7586cffd84e5d1af7f866e3602903205a72d580d5f3f"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric-fixes.pw.toml"
 hash = "57bca070397aaac42977e563df8a1fb56702a2ac7076a8819c190259b9cf04a6"
 metafile = true
@@ -137,11 +142,6 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
-metafile = true
-
-[[files]]
-file = "mods/interactive.pw.toml"
-hash = "183ed6f9464264a58d6665a7cc86c4802a81fb0178ee75b02933e415c432f35f"
 metafile = true
 
 [[files]]
@@ -277,11 +277,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "d0ad1f4d4d52d8497ced9130e5f7c66a34c5f1e83f549bc2a05ccabe50ebc9e8"
 metafile = true
 
 [[files]]
