@@ -5,10 +5,6 @@ file = "LICENSE"
 hash = "5fcaf975da2643ce02114ea89f7915cf6331969e500326c2b4f1541c192b14c2"
 
 [[files]]
-file = "README.md"
-hash = "4ca7d6ba02156322f95a3d38b6b29eab7a85194c32681c85f17650ef0ed35d53"
-
-[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "80920b022c9527df26a428ce471a628c5b8760a085d6545a7cddadd5a4b3a838"
 metafile = true
@@ -367,7 +363,3 @@ metafile = true
 file = "mods/yungs-bridges.pw.toml"
 hash = "01a04df128fe021c9fbce79296c6550fa3abe55d010b0dd5df51700e4d2057ac"
 metafile = true
-
-[[files]]
-file = "packwizignore.txt"
-hash = "7adfaf00b7a3df0ded9e78c38675aef1e2f941a6d14b1b72ad57300534a06a7d"
