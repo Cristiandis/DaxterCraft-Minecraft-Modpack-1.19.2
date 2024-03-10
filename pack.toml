@@ -1,0 +1,13 @@
+name = "Daxter Craft Minecraft Modpack 1 . 19 . 2"
+author = "Cristian Izzo"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "05c0b5a7f07202a87197c11f0176813cf19eea45c3ebb7fde54699ff58226cd7"
+
+[versions]
+fabric = "0.15.7"
+minecraft = "1.19.2"
