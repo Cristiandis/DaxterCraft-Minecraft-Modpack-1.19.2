@@ -260,11 +260,6 @@ hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
 metafile = true
 
 [[files]]
-file = "mods/satin-api.pw.toml"
-hash = "709e3bb25f8b35de2d4c6b5f78bcdd288cd5d5bfca8a616b224203eda8fb5bb3"
-metafile = true
-
-[[files]]
 file = "mods/sbm-jukebox.pw.toml"
 hash = "1214a78e284385b6ae2d463ba487979e08dcc81a5f255af99040033ad1986785"
 metafile = true
