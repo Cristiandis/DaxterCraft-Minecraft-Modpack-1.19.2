@@ -110,6 +110,11 @@ hash = "40befbf38a2b15d304c03bbe7b110dc712c4e50845b2c7a7fb8bb8423949aad9"
 metafile = true
 
 [[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "2104479f2534504ccbcd9d815d22d1e69bfdfdbdf6d85192f3570978bf11b239"
+metafile = true
+
+[[files]]
 file = "mods/dark-loading-screen.pw.toml"
 hash = "ee791485dbd1008c51079c693960b6555311d2fc44d2a4901b7f4455d00eea24"
 metafile = true
