@@ -35,11 +35,6 @@ hash = "84c0488c1a1aae759c20bfcc3a6ea2a5379c777c414b4c8815f1cf97b78aa11e"
 metafile = true
 
 [[files]]
-file = "mods/astronomical.pw.toml"
-hash = "74b58831fd9232a6032a061b5bebbcd5d24dab6ce823ab757b85ad160255f126"
-metafile = true
-
-[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "6b8f9852af1c1676359c3866dd6a86cf295d149bc6e04336a49cbc3c7ec1d323"
 metafile = true
@@ -75,11 +70,6 @@ hash = "e1b84efda222d3d22b8b683980ef1d089ca015e0d8671cd18f2892f70d4b03e5"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric-fixes.pw.toml"
 hash = "57bca070397aaac42977e563df8a1fb56702a2ac7076a8819c190259b9cf04a6"
 metafile = true
@@ -110,11 +100,6 @@ hash = "40befbf38a2b15d304c03bbe7b110dc712c4e50845b2c7a7fb8bb8423949aad9"
 metafile = true
 
 [[files]]
-file = "mods/dark-loading-screen.pw.toml"
-hash = "ee791485dbd1008c51079c693960b6555311d2fc44d2a4901b7f4455d00eea24"
-metafile = true
-
-[[files]]
 file = "mods/debugify.pw.toml"
 hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
 metafile = true
@@ -135,18 +120,8 @@ hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
 metafile = true
 
 [[files]]
-file = "mods/effective.pw.toml"
-hash = "192d5837406f350de1551233735b6de7deb374669585d8759b554edfb4f72c05"
-metafile = true
-
-[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "430567cd5fd2b2a1b02595dd638cbc94f090b00ee48bb07efa075817ce0305b7"
-metafile = true
-
-[[files]]
-file = "mods/extended-drawers.pw.toml"
-hash = "46e395784097899da3bd80fce9e6442f9eaa39c72af49ed288d1b6044288b8fd"
 metafile = true
 
 [[files]]
@@ -180,16 +155,6 @@ hash = "9cabfc450a6277ea25d4b208013859aa59e44c063bc1aa26bce450616faf737c"
 metafile = true
 
 [[files]]
-file = "mods/jade-addons-fabric.pw.toml"
-hash = "3f5a3d78357557c87f45ee3698f0178b17c85b7d5d8753013fec4b946b318926"
-metafile = true
-
-[[files]]
-file = "mods/jade.pw.toml"
-hash = "33022430ccfc723fa386c77650f70b2ad987e1e68fa8986e1de0d9778fafebd7"
-metafile = true
-
-[[files]]
 file = "mods/krypton.pw.toml"
 hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
@@ -215,11 +180,6 @@ hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
 metafile = true
 
 [[files]]
-file = "mods/lmd.pw.toml"
-hash = "d46de3ab1a604902327492697f1b920c371af6683d533bf5b44f84f192e64045"
-metafile = true
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
@@ -232,11 +192,6 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "8ab2cd08567bb49f2e8fec1ee42036a3897e259e2b5c2ddd7f15bf1835be1c24"
-metafile = true
-
-[[files]]
-file = "mods/modmenu.pw.toml"
-hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
 metafile = true
 
 [[files]]
@@ -257,11 +212,6 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
-metafile = true
-
-[[files]]
-file = "mods/no-telemetry.pw.toml"
-hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
 metafile = true
 
 [[files]]
@@ -302,11 +252,6 @@ metafile = true
 [[files]]
 file = "mods/sbm-jukebox.pw.toml"
 hash = "1214a78e284385b6ae2d463ba487979e08dcc81a5f255af99040033ad1986785"
-metafile = true
-
-[[files]]
-file = "mods/screenshot-to-clipboard.pw.toml"
-hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
 metafile = true
 
 [[files]]
