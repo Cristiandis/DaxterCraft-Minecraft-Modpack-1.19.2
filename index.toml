@@ -310,6 +310,11 @@ hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
 metafile = true
 
 [[files]]
+file = "mods/rings-of-ascension.pw.toml"
+hash = "228031f17f53a1a2a138e70fb3f0254da3563a4545d6a1d417d9001e9cf79942"
+metafile = true
+
+[[files]]
 file = "mods/satin-api.pw.toml"
 hash = "709e3bb25f8b35de2d4c6b5f78bcdd288cd5d5bfca8a616b224203eda8fb5bb3"
 metafile = true
@@ -385,6 +390,11 @@ hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
 
 [[files]]
+file = "mods/vivecraft.pw.toml"
+hash = "7aaac0df47f34ae2339d5f1b2143b91d23b735ee721e8dddb180a67a821e70ea"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "4524a26b66ece7c58951ea75e91aa56971f0a5e8ccb1cf7ac10b2c31aae2cf78"
 metafile = true
@@ -397,6 +407,21 @@ metafile = true
 [[files]]
 file = "mods/whocosmetics.pw.toml"
 hash = "17d4c0e923fcb0ff8e607117a334fc42d7ea80d3bb8648c74d2ef495e1bbd3af"
+metafile = true
+
+[[files]]
+file = "mods/xaeroplus.pw.toml"
+hash = "2f5eff43d0ad5ad87d017c9c1ec4ab037f4e4fe17c2d352e42d9c068c36130fe"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "d0fc9d345c5bbb98503bf1b6c0b39a0c69b1eaf585b1ec36e76ece8a73d64b8f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "3ea876cdecbd3afe0311b9a0ad91a15f265c01528438711ac8b0e3ace025a67c"
 metafile = true
 
 [[files]]

@@ -1,0 +1,17 @@
+name = "Xaero's World Map"
+filename = "XaerosWorldMap_1.37.8_Fabric_1.19.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NcUtCpym/versions/MGnsRoAP/XaerosWorldMap_1.37.8_Fabric_1.19.1.jar"
+hash-format = "sha1"
+hash = "a6692431f8e11bc8dba74ef26771d8c85a9f12da"
+
+[update]
+[update.modrinth]
+mod-id = "NcUtCpym"
+version = "MGnsRoAP"
+
+[option]
+optional = true
+description = "This mod adds a world map, best used with minimap"
