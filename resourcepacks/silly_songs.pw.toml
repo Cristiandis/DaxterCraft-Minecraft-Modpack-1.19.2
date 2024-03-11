@@ -1,0 +1,13 @@
+name = "Silly Songs"
+filename = "silly.songs.zip"
+side = "client"
+
+[download]
+url = "https://github.com/Cristiandis/Keyern-resource-pack-test/releases/download/p/silly.songs.zip"
+hash-format = "sha256"
+hash = "c1ff1ac4a70c93401655e8742e64ea3ac1647e4fa9d3eb7edc20e562d9d70b8d"
+
+[option]
+optional = true
+description = "Replaces default minecraft disks with silly music - made by keyern"
+

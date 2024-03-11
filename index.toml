@@ -330,6 +330,11 @@ hash = "7ffcb13b8f899184ddc68559a5ead83e5598918eb67268c9e3f4af70cea6af8c"
 metafile = true
 
 [[files]]
+file = "mods/silly_songs_extended.pw.toml"
+hash = "4b93e7869ffb7cf391a7a4d7652a8d507369302662f150886976cee8a27c7d9e"
+metafile = true
+
+[[files]]
 file = "mods/simple-hats.pw.toml"
 hash = "73a1fc7197efeaf12b7c96c2b443f78246c2397b3e5a2f8e3385f42b03276392"
 metafile = true
@@ -447,4 +452,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-bridges.pw.toml"
 hash = "01a04df128fe021c9fbce79296c6550fa3abe55d010b0dd5df51700e4d2057ac"
+metafile = true
+
+[[files]]
+file = "resourcepacks/silly_songs.pw.toml"
+hash = "83cdf69b9b350d14c5a4843e8db228f81dd2e4c4d5f381a45c2757ec88fb6a9c"
 metafile = true
