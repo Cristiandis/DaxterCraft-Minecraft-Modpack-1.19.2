@@ -280,6 +280,11 @@ hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
 metafile = true
 
 [[files]]
+file = "mods/playit-gg.pw.toml"
+hash = "778a7ee061e5fa8411d3e02d3b1e591d5a984c5f172b8ae553b7eff443ba56d9"
+metafile = true
+
+[[files]]
 file = "mods/qkl.pw.toml"
 hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
 metafile = true
