@@ -160,6 +160,11 @@ hash = "46e395784097899da3bd80fce9e6442f9eaa39c72af49ed288d1b6044288b8fd"
 metafile = true
 
 [[files]]
+file = "mods/extractinator.pw.toml"
+hash = "1b0701e0c3cf2ca2b90923eebabaa514906a066db8335b45b4e7dca2792db785"
+metafile = true
+
+[[files]]
 file = "mods/fast-portals.pw.toml"
 hash = "d0457c8c7562b26e82469528c91df3a4f0abe0b4d186da822fa685f385ae96fc"
 metafile = true
