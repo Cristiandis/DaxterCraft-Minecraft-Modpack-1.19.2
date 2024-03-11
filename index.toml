@@ -200,16 +200,6 @@ hash = "9cabfc450a6277ea25d4b208013859aa59e44c063bc1aa26bce450616faf737c"
 metafile = true
 
 [[files]]
-file = "mods/iris-flw-compat.pw.toml"
-hash = "5e526aaf60cc3f269ef0768f1c525509ff84e6072e54584a1279261a64fba57e"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "bf406a4e8fb744b076c7009703bbea1674c74adf59dc847587becc2d503618e2"
-metafile = true
-
-[[files]]
 file = "mods/jade-addons-fabric.pw.toml"
 hash = "3f5a3d78357557c87f45ee3698f0178b17c85b7d5d8753013fec4b946b318926"
 metafile = true
