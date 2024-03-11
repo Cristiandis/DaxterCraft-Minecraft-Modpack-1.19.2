@@ -185,6 +185,11 @@ hash = "c163930b60d7eff3703a9e1ddb162321fa565f536276ab7aa162b6aeaad30194"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "0497a92235c08a5ace339102c702d17e529c0770b3a340bdecebe321e3213888"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "8177a47aff4e87511946b64ed2e52454a13d749e0df75ecbdcaef40912b6b497"
 metafile = true
@@ -227,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/lil-wings.pw.toml"
+hash = "672ce460e6c4359013b6c0dc1e5d2ff788b2ab851f845651842ff4c5e788e02f"
 metafile = true
 
 [[files]]
@@ -380,6 +390,11 @@ hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
+file = "mods/spirit.pw.toml"
+hash = "2b5eaf88e6214319a6339ac81a2aa8e03262fae3656cc01c40991575bb5129e3"
+metafile = true
+
+[[files]]
 file = "mods/star-wars-planets-ad-astra.pw.toml"
 hash = "e7dfd3559d96e6abf914ddaacd8b7e8f192a8afd9ceb386af028f24bc63bd9b9"
 metafile = true
@@ -412,6 +427,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
+metafile = true
+
+[[files]]
+file = "mods/vitalize.pw.toml"
+hash = "ec561648b8bc606f603a15567e3df5ccdd34e26f61098fa5f4525e102d248f4b"
 metafile = true
 
 [[files]]
