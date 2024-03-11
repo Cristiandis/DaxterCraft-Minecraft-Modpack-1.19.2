@@ -1,0 +1,13 @@
+name = "Sodium Shader Support"
+filename = "sodium-shader-support-mc1.19.4-0.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8joDCBGc/versions/emPtr2Hj/sodium-shader-support-mc1.19.4-0.1.0.jar"
+hash-format = "sha1"
+hash = "fd5a4131349f1d9b4977058f720ee4daa98da20c"
+
+[update]
+[update.modrinth]
+mod-id = "8joDCBGc"
+version = "emPtr2Hj"
