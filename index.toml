@@ -35,11 +35,6 @@ hash = "84c0488c1a1aae759c20bfcc3a6ea2a5379c777c414b4c8815f1cf97b78aa11e"
 metafile = true
 
 [[files]]
-file = "mods/astronomical.pw.toml"
-hash = "74b58831fd9232a6032a061b5bebbcd5d24dab6ce823ab757b85ad160255f126"
-metafile = true
-
-[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "6b8f9852af1c1676359c3866dd6a86cf295d149bc6e04336a49cbc3c7ec1d323"
 metafile = true
