@@ -125,16 +125,6 @@ hash = "430567cd5fd2b2a1b02595dd638cbc94f090b00ee48bb07efa075817ce0305b7"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "5197e9172dd9a9b06303b85a837e7a044b71c005b3d0003aa19041a253daf541"
-metafile = true
-
-[[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
-metafile = true
-
-[[files]]
 file = "mods/fast-portals.pw.toml"
 hash = "d0457c8c7562b26e82469528c91df3a4f0abe0b4d186da822fa685f385ae96fc"
 metafile = true
@@ -227,6 +217,16 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
+metafile = true
+
+[[files]]
+file = "mods/qkl.pw.toml"
+hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "5c32754581f5be9dceca7be3e2d5d6dc9fb35406c87449b46e69e2bb7afc9755"
 metafile = true
 
 [[files]]
