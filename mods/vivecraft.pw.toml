@@ -11,3 +11,7 @@ hash = "b69fc4136b960bbda4c0ef70095593e19ea2fc51"
 [update.modrinth]
 mod-id = "wGoQDPN5"
 version = "TBMk8jLa"
+
+[option]
+optional = true
+description = "This mod lets you play in vr and see other players vr movement on non-vr"
