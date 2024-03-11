@@ -50,6 +50,16 @@ hash = "d607c1487fd6296778a954162c33bc9ba04a1f170a6bb454d1a850835dadb9d2"
 metafile = true
 
 [[files]]
+file = "mods/betterteamchat-openpac.pw.toml"
+hash = "daa231e694284372f683930a97821998a457a4c910c225d19d115b0cea3e4620"
+metafile = true
+
+[[files]]
+file = "mods/betterteamchat.pw.toml"
+hash = "cb6569ee5925a5d97eb0c6465826f011961e922981def2ac4606f52a7de934d5"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "ededb5f6acc81df09989c2bd2e738413372638d66372af51543d7e7cbc2a049b"
 metafile = true
@@ -180,6 +190,16 @@ hash = "9cabfc450a6277ea25d4b208013859aa59e44c063bc1aa26bce450616faf737c"
 metafile = true
 
 [[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "5e526aaf60cc3f269ef0768f1c525509ff84e6072e54584a1279261a64fba57e"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "bf406a4e8fb744b076c7009703bbea1674c74adf59dc847587becc2d503618e2"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-fabric.pw.toml"
 hash = "3f5a3d78357557c87f45ee3698f0178b17c85b7d5d8753013fec4b946b318926"
 metafile = true
@@ -272,6 +292,11 @@ metafile = true
 [[files]]
 file = "mods/occlusion-culling-fix-sodium.pw.toml"
 hash = "6376089e015378145857ba665a8db139a1c578c36e09313381852cebf84dab04"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "c08e130538d767aceb552ce3b060a3a7de0383c4cc731ee995aaeb5c83a593d3"
 metafile = true
 
 [[files]]
