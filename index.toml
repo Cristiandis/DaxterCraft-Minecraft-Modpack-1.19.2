@@ -315,11 +315,6 @@ hash = "c08e130538d767aceb552ce3b060a3a7de0383c4cc731ee995aaeb5c83a593d3"
 metafile = true
 
 [[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
-metafile = true
-
-[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "70735ca28d8fe3d7359666f2d919e9f9266642d6c471dd9892b543568b6d8285"
 metafile = true
