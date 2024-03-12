@@ -100,11 +100,6 @@ hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
 metafile = true
 
 [[files]]
-file = "mods/create-chunkloading.pw.toml"
-hash = "cb5ddf0131a246d5f49ef7ca54b0e2d6c3f408d08cf56c55fe46a8a57c34e706"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric-fixes.pw.toml"
 hash = "57bca070397aaac42977e563df8a1fb56702a2ac7076a8819c190259b9cf04a6"
 metafile = true
