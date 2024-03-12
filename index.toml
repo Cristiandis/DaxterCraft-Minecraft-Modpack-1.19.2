@@ -465,11 +465,6 @@ hash = "35662ef47ed624da31c44a98149a3196565a1252a5cccf35c701945df0e51d17"
 metafile = true
 
 [[files]]
-file = "mods/tardis-refined.pw.toml"
-hash = "72e0a811e28ef339e7507a854fb75e6f0a5b718bd5e834e3dcfba7ceddefa736"
-metafile = true
-
-[[files]]
 file = "mods/terra.pw.toml"
 hash = "396b51937e8d17e146b81a5364c3a15c18a9a730e6b5023b380d4eb35cc3aa7d"
 metafile = true
