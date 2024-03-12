@@ -285,11 +285,6 @@ hash = "c2d771634edb610cad1cc4e532bf17dd876c8bf127d20e9427ee47eab7cad026"
 metafile = true
 
 [[files]]
-file = "mods/mythicmetals.pw.toml"
-hash = "d78aaf967f7051e9bbe28bff1a10da4d3a5d2f9303d87597feb9cdd69332fb80"
-metafile = true
-
-[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "df5d311dc2b08556afa338e43b69abb71448644375dd892a3dc97d455f28203c"
 metafile = true
