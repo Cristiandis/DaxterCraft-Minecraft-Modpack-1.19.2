@@ -280,6 +280,11 @@ hash = "d46de3ab1a604902327492697f1b920c371af6683d533bf5b44f84f192e64045"
 metafile = true
 
 [[files]]
+file = "mods/macos-input-fixes.pw.toml"
+hash = "6b957aac5408f1fef9344de1c62557edbd900e1dd20610df4cf21684f5658d22"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
