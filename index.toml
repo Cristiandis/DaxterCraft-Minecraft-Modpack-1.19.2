@@ -175,11 +175,6 @@ hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
-file = "mods/forgero.pw.toml"
-hash = "c82b24a73df0614aad869016f7f83a7c4bda0d30b0714b279ebed20b395f3b5f"
-metafile = true
-
-[[files]]
 file = "mods/gamma-utils.pw.toml"
 hash = "c163930b60d7eff3703a9e1ddb162321fa565f536276ab7aa162b6aeaad30194"
 metafile = true
