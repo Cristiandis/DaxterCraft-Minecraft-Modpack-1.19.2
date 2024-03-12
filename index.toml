@@ -10,6 +10,11 @@ hash = "80920b022c9527df26a428ce471a628c5b8760a085d6545a7cddadd5a4b3a838"
 metafile = true
 
 [[files]]
+file = "mods/advanced-movement.pw.toml"
+hash = "57a16f85ccb4895b9a14e78a94ef410408b95f062d5587c46ce8a97670e837ce"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "3246bb73bfa95570e4ef16c79b283ba595d2f3a3c37f369cd7fc07815f7a179f"
 metafile = true
@@ -352,11 +357,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
-metafile = true
-
-[[files]]
-file = "mods/resquake.pw.toml"
-hash = "cf1f8b4dfc701693abfcd6c84a0c7902026ce51dd0a2ef3dfbe16532c7c387d4"
 metafile = true
 
 [[files]]
