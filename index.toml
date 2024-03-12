@@ -355,6 +355,11 @@ hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
 metafile = true
 
 [[files]]
+file = "mods/resquake.pw.toml"
+hash = "cf1f8b4dfc701693abfcd6c84a0c7902026ce51dd0a2ef3dfbe16532c7c387d4"
+metafile = true
+
+[[files]]
 file = "mods/rings-of-ascension.pw.toml"
 hash = "228031f17f53a1a2a138e70fb3f0254da3563a4545d6a1d417d9001e9cf79942"
 metafile = true
