@@ -10,11 +10,6 @@ hash = "80920b022c9527df26a428ce471a628c5b8760a085d6545a7cddadd5a4b3a838"
 metafile = true
 
 [[files]]
-file = "mods/advanced-movement.pw.toml"
-hash = "57a16f85ccb4895b9a14e78a94ef410408b95f062d5587c46ce8a97670e837ce"
-metafile = true
-
-[[files]]
 file = "mods/ae2.pw.toml"
 hash = "3246bb73bfa95570e4ef16c79b283ba595d2f3a3c37f369cd7fc07815f7a179f"
 metafile = true
@@ -152,6 +147,11 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-movement-fabric.pw.toml"
+hash = "275f0f12c2a02fd79881e5ed139e975390514f2f91d7d3a5a2259591b34671c1"
 metafile = true
 
 [[files]]
