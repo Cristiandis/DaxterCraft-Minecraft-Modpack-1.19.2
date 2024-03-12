@@ -10,6 +10,11 @@ hash = "80920b022c9527df26a428ce471a628c5b8760a085d6545a7cddadd5a4b3a838"
 metafile = true
 
 [[files]]
+file = "mods/advanced-movement.pw.toml"
+hash = "a05ccc8677a15389f42564c311131f8a4fc57db5b997fc02a70c18d739590dd9"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "3246bb73bfa95570e4ef16c79b283ba595d2f3a3c37f369cd7fc07815f7a179f"
 metafile = true
@@ -407,6 +412,11 @@ metafile = true
 [[files]]
 file = "mods/simple-hats.pw.toml"
 hash = "73a1fc7197efeaf12b7c96c2b443f78246c2397b3e5a2f8e3385f42b03276392"
+metafile = true
+
+[[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "4fcb38d2e969eabf659768e3a5b047a84736c57c88833e209e6033c228bb697e"
 metafile = true
 
 [[files]]
