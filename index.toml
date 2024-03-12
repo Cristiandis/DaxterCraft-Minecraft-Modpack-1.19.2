@@ -15,6 +15,11 @@ hash = "3246bb73bfa95570e4ef16c79b283ba595d2f3a3c37f369cd7fc07815f7a179f"
 metafile = true
 
 [[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "dc9fe65f01e38f83a145895609147e65f9af37e1460cb536795fef871a81fd5d"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "2efef40105037d802c4cd424f9831d452f2caf4bfcca41f73feb9a2c5cae01f1"
 metafile = true
@@ -200,6 +205,11 @@ hash = "53dc4c967e0172ef2df3542dbc6b9682428557a551482db964743e1f35eb2a07"
 metafile = true
 
 [[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "9cabfc450a6277ea25d4b208013859aa59e44c063bc1aa26bce450616faf737c"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-fabric.pw.toml"
 hash = "3f5a3d78357557c87f45ee3698f0178b17c85b7d5d8753013fec4b946b318926"
 metafile = true
@@ -207,6 +217,16 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "33022430ccfc723fa386c77650f70b2ad987e1e68fa8986e1de0d9778fafebd7"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "2fa3ea42c8afb4a8959b689d099d6b9ecf55a5b0f17d350d6d00d33d83053b32"
 metafile = true
 
 [[files]]
@@ -275,6 +295,11 @@ hash = "c2d771634edb610cad1cc4e532bf17dd876c8bf127d20e9427ee47eab7cad026"
 metafile = true
 
 [[files]]
+file = "mods/mythicmetals.pw.toml"
+hash = "d78aaf967f7051e9bbe28bff1a10da4d3a5d2f9303d87597feb9cdd69332fb80"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "df5d311dc2b08556afa338e43b69abb71448644375dd892a3dc97d455f28203c"
 metafile = true
@@ -300,6 +325,11 @@ hash = "c08e130538d767aceb552ce3b060a3a7de0383c4cc731ee995aaeb5c83a593d3"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
+metafile = true
+
+[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "70735ca28d8fe3d7359666f2d919e9f9266642d6c471dd9892b543568b6d8285"
 metafile = true
@@ -317,6 +347,11 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "5c32754581f5be9dceca7be3e2d5d6dc9fb35406c87449b46e69e2bb7afc9755"
+metafile = true
+
+[[files]]
+file = "mods/quiltgoslighlyfasterlol.pw.toml"
+hash = "feee9284053ffd6435907d1bf3b5fdb7e9010237bb2a4b6a912d6f1389f8def7"
 metafile = true
 
 [[files]]
