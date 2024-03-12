@@ -285,8 +285,18 @@ hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "f6124a6b079e5b8885634c9ba9253ceaa7da1828caf139581f474faedd4197e5"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "631a4aeea3ca16afe689e67c409cb39d18af269e1eecd944d042a85a88d34314"
+metafile = true
+
+[[files]]
+file = "mods/moyai.pw.toml"
+hash = "c2d771634edb610cad1cc4e532bf17dd876c8bf127d20e9427ee47eab7cad026"
 metafile = true
 
 [[files]]
@@ -422,6 +432,11 @@ metafile = true
 [[files]]
 file = "mods/stutterfix.pw.toml"
 hash = "8cf7a3beeadaf367d5fce7dc455b1173340bbb9d615b6e282f7a221af1df1ab9"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "35662ef47ed624da31c44a98149a3196565a1252a5cccf35c701945df0e51d17"
 metafile = true
 
 [[files]]
