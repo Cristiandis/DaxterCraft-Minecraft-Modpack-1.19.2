@@ -15,11 +15,6 @@ hash = "3246bb73bfa95570e4ef16c79b283ba595d2f3a3c37f369cd7fc07815f7a179f"
 metafile = true
 
 [[files]]
-file = "mods/alloy-forgery.pw.toml"
-hash = "dc9fe65f01e38f83a145895609147e65f9af37e1460cb536795fef871a81fd5d"
-metafile = true
-
-[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "2efef40105037d802c4cd424f9831d452f2caf4bfcca41f73feb9a2c5cae01f1"
 metafile = true
