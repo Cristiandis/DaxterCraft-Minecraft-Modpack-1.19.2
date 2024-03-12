@@ -95,6 +95,11 @@ hash = "e1b84efda222d3d22b8b683980ef1d089ca015e0d8671cd18f2892f70d4b03e5"
 metafile = true
 
 [[files]]
+file = "mods/combat-roll.pw.toml"
+hash = "72727045297f448b5610bd045a422dea33ab67198d3ba545cb44223ec8b52057"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
 metafile = true
@@ -362,6 +367,11 @@ metafile = true
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "70735ca28d8fe3d7359666f2d919e9f9266642d6c471dd9892b543568b6d8285"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "bc5420f20c163dffd4c32178bfc8004da8da6e48561a3960c27537c826d85a17"
 metafile = true
 
 [[files]]
