@@ -10,11 +10,6 @@ hash = "80920b022c9527df26a428ce471a628c5b8760a085d6545a7cddadd5a4b3a838"
 metafile = true
 
 [[files]]
-file = "mods/advanced-movement.pw.toml"
-hash = "a05ccc8677a15389f42564c311131f8a4fc57db5b997fc02a70c18d739590dd9"
-metafile = true
-
-[[files]]
 file = "mods/ae2.pw.toml"
 hash = "3246bb73bfa95570e4ef16c79b283ba595d2f3a3c37f369cd7fc07815f7a179f"
 metafile = true
@@ -82,6 +77,16 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "78a55cd6aa6ac75610e8273cee84077e7ed3ef1503c4648d59b63a63f0e00cb2"
+metafile = true
+
+[[files]]
+file = "mods/cc-restitched.pw.toml"
+hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "4dcf5c66d30f78d3d84d2596149b457f7ab2021591e98f9d34b3636e8c961d60"
 metafile = true
 
 [[files]]
@@ -197,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "0497a92235c08a5ace339102c702d17e529c0770b3a340bdecebe321e3213888"
+metafile = true
+
+[[files]]
+file = "mods/goblocks.pw.toml"
+hash = "cf448708bf1ae294a5036e52b999a14d27c3234d6a73da65c6b9be6c9059942c"
 metafile = true
 
 [[files]]

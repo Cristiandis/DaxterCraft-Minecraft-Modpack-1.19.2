@@ -1,8 +1,0 @@
-name = "Advanced Movement"
-filename = "Advanced.Movement-22.08.20hotfix-MC1.18.X_1.19.X.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cristiandis/Keyern-resource-pack-test/releases/download/p/Advanced.Movement-22.08.20hotfix-MC1.18.X_1.19.X.jar"
-hash-format = "sha256"
-hash = "97042527d6814b8832b0b635b7c106e43b356333d9ea04ca96bc67764b93ed2b"

@@ -1,0 +1,13 @@
+name = "GoBlocks"
+filename = "goblocks-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PqHjC69o/versions/H17BW7yn/goblocks-1.2.jar"
+hash-format = "sha1"
+hash = "c10ab32aad49b27d70692c3344bfbec32b829fd4"
+
+[update]
+[update.modrinth]
+mod-id = "PqHjC69o"
+version = "H17BW7yn"
