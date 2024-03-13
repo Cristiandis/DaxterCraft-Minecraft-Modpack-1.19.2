@@ -170,33 +170,8 @@ hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
 metafile = true
 
 [[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "c416e3d01f9fc86dddd2e1a34eefc24e51adb7911d808e324a2dfe384f46e081"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "1d06745840a3680cbe11b708d5f0ae341e72c4d821a6d9604802aa4a1163141f"
-metafile = true
-
-[[files]]
-file = "mods/emiffect.pw.toml"
-hash = "031d16eb940b9005939d24390f98f321afcbfb001a835f36c1874dd5d5cd4258"
-metafile = true
-
-[[files]]
-file = "mods/emitrades.pw.toml"
-hash = "cfcfcb3c97190708fe47074148d803d339713bdaa908b98d57a6ef4e40e053b5"
-metafile = true
-
-[[files]]
 file = "mods/emogg.pw.toml"
 hash = "e764d4333d53f974166d66d7eaea4657012f967467e9adbd1e71c2e108040079"
-metafile = true
-
-[[files]]
-file = "mods/emplied.pw.toml"
-hash = "32f9407b8dfa08797a118aaddbedef6e26f9251f2b6ec52a53884e494c298ed0"
 metafile = true
 
 [[files]]
@@ -365,6 +340,11 @@ hash = "df5d311dc2b08556afa338e43b69abb71448644375dd892a3dc97d455f28203c"
 metafile = true
 
 [[files]]
+file = "mods/nerb.pw.toml"
+hash = "8cf76ab0d9dbfd88067a7fde1e13b230448553a79688851dc91b994dd45a5f51"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
@@ -421,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "cf8d5434e6506aa6ff67f329213d3d6a73c089f4cc4821ba46ed6592129cdda2"
+hash = "036e1c7dfc11c1cfc68844d17bc1e0c38732072c99526a10a5bec71dd4c0e021"
 metafile = true
 
 [[files]]
@@ -437,6 +417,16 @@ metafile = true
 [[files]]
 file = "mods/rings-of-ascension.pw.toml"
 hash = "228031f17f53a1a2a138e70fb3f0254da3563a4545d6a1d417d9001e9cf79942"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-loot-tables.pw.toml"
+hash = "d6696013c9c6bafa947b8e998124080bb41c97fe89d1c91098ca1dbec3350e37"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-trades.pw.toml"
+hash = "253d24d518bf1c952361a25e91d1c80d0c30f83a47c8a94a05bdf8d51a6e97a9"
 metafile = true
 
 [[files]]

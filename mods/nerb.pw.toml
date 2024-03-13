@@ -1,0 +1,13 @@
+name = "Not Enough Recipe Book [NERB]"
+filename = "nerb-1.19.2-0.3-QUILT.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bQh7xzFq/versions/YAmx9o85/nerb-1.19.2-0.3-QUILT.jar"
+hash-format = "sha1"
+hash = "065d7e19b1da21d6a55d50684ff42f713ea9cf50"
+
+[update]
+[update.modrinth]
+mod-id = "bQh7xzFq"
+version = "YAmx9o85"
