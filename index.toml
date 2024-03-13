@@ -175,8 +175,8 @@ hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
 metafile = true
 
 [[files]]
-file = "mods/emojiful.pw.toml"
-hash = "1be7718424d55624392272f9c6a6bb96dd72fba9543270e7f2c8a893a815a675"
+file = "mods/emogg.pw.toml"
+hash = "e764d4333d53f974166d66d7eaea4657012f967467e9adbd1e71c2e108040079"
 metafile = true
 
 [[files]]
