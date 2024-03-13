@@ -135,11 +135,6 @@ hash = "62f2910de0e12f66c2888691baf29e891883aded41419dec468e940a9b1031b0"
 metafile = true
 
 [[files]]
-file = "mods/createfabricreibugfix.pw.toml"
-hash = "40befbf38a2b15d304c03bbe7b110dc712c4e50845b2c7a7fb8bb8423949aad9"
-metafile = true
-
-[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "2104479f2534504ccbcd9d815d22d1e69bfdfdbdf6d85192f3570978bf11b239"
 metafile = true
@@ -175,8 +170,33 @@ hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "c416e3d01f9fc86dddd2e1a34eefc24e51adb7911d808e324a2dfe384f46e081"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "ba64702958cd3c6e5f6872c47c5992213102490d9a0b4b43c8200c38a7da3496"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "031d16eb940b9005939d24390f98f321afcbfb001a835f36c1874dd5d5cd4258"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "cfcfcb3c97190708fe47074148d803d339713bdaa908b98d57a6ef4e40e053b5"
+metafile = true
+
+[[files]]
 file = "mods/emogg.pw.toml"
 hash = "e764d4333d53f974166d66d7eaea4657012f967467e9adbd1e71c2e108040079"
+metafile = true
+
+[[files]]
+file = "mods/emplied.pw.toml"
+hash = "32f9407b8dfa08797a118aaddbedef6e26f9251f2b6ec52a53884e494c298ed0"
 metafile = true
 
 [[files]]
@@ -400,11 +420,6 @@ hash = "feee9284053ffd6435907d1bf3b5fdb7e9010237bb2a4b6a912d6f1389f8def7"
 metafile = true
 
 [[files]]
-file = "mods/rei.pw.toml"
-hash = "036e1c7dfc11c1cfc68844d17bc1e0c38732072c99526a10a5bec71dd4c0e021"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "625430f4374524d197165fa6d41afad3dc65a60b16ab87298cba3d47581a5485"
 metafile = true
@@ -441,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/silly_songs_extended.pw.toml"
-hash = "4b93e7869ffb7cf391a7a4d7652a8d507369302662f150886976cee8a27c7d9e"
+hash = "bbba7a0dbd9dbbf0adf652808b9a3d32a9519d20c0d8d7a7822554025f6bc764"
 metafile = true
 
 [[files]]
