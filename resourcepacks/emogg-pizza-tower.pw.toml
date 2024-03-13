@@ -1,0 +1,10 @@
+name = "Emogg Pizza Tower"
+filename = "emogg-discord-pizza_tower_discord.zip"
+side = "client"
+
+[download]
+url = "https://github.com/Cristiandis/Keyern-resource-pack-test/releases/download/p/emogg-discord-pizza_tower_discord.zip"
+hash-format = "sha256"
+hash = "4ae12de65e4e6b69e88ef132b8e43e7a89c545bd3772c00d206c9c2376780c14"
+
+

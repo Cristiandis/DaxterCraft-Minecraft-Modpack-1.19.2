@@ -600,6 +600,16 @@ hash = "01a04df128fe021c9fbce79296c6550fa3abe55d010b0dd5df51700e4d2057ac"
 metafile = true
 
 [[files]]
+file = "resourcepacks/emogg-crack-den.pw.toml"
+hash = "26bab4ced5a029f4d0103f9b6ac41f1df489c97d0b05f38303e290d3a2a4a7c9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/emogg-pizza-tower.pw.toml"
+hash = "2c63b918559d1d74c0ddfd4b382b5779bdd5d10bcf468c264a6f97dff5cc9dc0"
+metafile = true
+
+[[files]]
 file = "resourcepacks/silly_songs.pw.toml"
 hash = "83cdf69b9b350d14c5a4843e8db228f81dd2e4c4d5f381a45c2757ec88fb6a9c"
 metafile = true
