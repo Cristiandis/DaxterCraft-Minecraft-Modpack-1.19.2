@@ -275,6 +275,11 @@ hash = "33022430ccfc723fa386c77650f70b2ad987e1e68fa8986e1de0d9778fafebd7"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "ce5cf72b56a3ad3b844a9334c91645ea8c39dffcec8ee2b0b8af14cc4719a2e4"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
