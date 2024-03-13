@@ -175,6 +175,11 @@ hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
 metafile = true
 
 [[files]]
+file = "mods/emojiful.pw.toml"
+hash = "1be7718424d55624392272f9c6a6bb96dd72fba9543270e7f2c8a893a815a675"
+metafile = true
+
+[[files]]
 file = "mods/essential-commands.pw.toml"
 hash = "d7c62098ea13919a210eefeddac3e52005c59aa2e088473c83d800bca6e0df39"
 metafile = true

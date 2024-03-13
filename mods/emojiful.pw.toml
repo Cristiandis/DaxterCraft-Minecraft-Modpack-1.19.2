@@ -1,0 +1,13 @@
+name = "Emojiful"
+filename = "Emojiful-Fabric-1.19.2-4.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/72GXx2MO/versions/Hi03hLp3/Emojiful-Fabric-1.19.2-4.0.4.jar"
+hash-format = "sha1"
+hash = "8c669e86fbbcd6fdb64b78b247c707c0a927ba60"
+
+[update]
+[update.modrinth]
+mod-id = "72GXx2MO"
+version = "Hi03hLp3"
