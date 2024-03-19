@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "facd724b6a6361131f5b9a4056830e47b6c4cf1642fd14ed6aa7a4faa4d3cd7a"
+hash = "664a562fd72795ad0599175e22c9925c66a8c8d812afac451d4ec18080efd112"
 metafile = true
 
 [[files]]
@@ -511,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/terra.pw.toml"
-hash = "396b51937e8d17e146b81a5364c3a15c18a9a730e6b5023b380d4eb35cc3aa7d"
+hash = "20e7e823936f040f41b816a47cb8253bfbdb3da86341396463817ff96403c1f4"
 metafile = true
 
 [[files]]
@@ -551,17 +551,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "2f5eff43d0ad5ad87d017c9c1ec4ab037f4e4fe17c2d352e42d9c068c36130fe"
+hash = "efc940ce153d8c82640cc5785b2843d9b0d640df2ffcf045c31fe022df56508f"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "d0fc9d345c5bbb98503bf1b6c0b39a0c69b1eaf585b1ec36e76ece8a73d64b8f"
+hash = "935e8c49c9fb279eb7c540cbb73635fa9780a029adf4292a108de41017d6ff9a"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "3ea876cdecbd3afe0311b9a0ad91a15f265c01528438711ac8b0e3ace025a67c"
+hash = "63cb26953da523c54e09d633c274aee43e66961c03cd5dafd0cbee8f7da6df70"
 metafile = true
 
 [[files]]
