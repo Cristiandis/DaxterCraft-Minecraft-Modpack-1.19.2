@@ -110,6 +110,11 @@ hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "7f8ad492cd7de39eb956a80e3b1292592e9224f6e46eeeec5c451d20ee8c6b78"
+metafile = true
+
+[[files]]
 file = "mods/create-chunkloading.pw.toml"
 hash = "cb5ddf0131a246d5f49ef7ca54b0e2d6c3f408d08cf56c55fe46a8a57c34e706"
 metafile = true
