@@ -65,6 +65,11 @@ hash = "cb6569ee5925a5d97eb0c6465826f011961e922981def2ac4606f52a7de934d5"
 metafile = true
 
 [[files]]
+file = "mods/blur-fabric.pw.toml"
+hash = "309fa9d0ab190059d9a13933db512f36f01ec0b40f37fa6e919ec085c686df9e"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "ededb5f6acc81df09989c2bd2e738413372638d66372af51543d7e7cbc2a049b"
 metafile = true
@@ -175,6 +180,11 @@ hash = "664a562fd72795ad0599175e22c9925c66a8c8d812afac451d4ec18080efd112"
 metafile = true
 
 [[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "e8aed42ec5c235a7809cfcf8dc32494e589a02527e780635a586e2d8fea0b1f0"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
 metafile = true
@@ -212,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
 metafile = true
 
 [[files]]
@@ -400,6 +415,11 @@ hash = "4a362e60bced90553a9eee9717e1a2b7cc3537b1c16e6ca9f423562062a46b68"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "80e52c4c76edb7e19169870e10ac16e966396e5a8f1a430ca039f52ceea9e297"
+metafile = true
+
+[[files]]
 file = "mods/qkl.pw.toml"
 hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
 metafile = true
@@ -530,6 +550,11 @@ hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
 
 [[files]]
+file = "mods/visuality.pw.toml"
+hash = "151a53057bd6f757ff073dd8f8344b354f872f0dc4d236daad3fffea5de0b7dc"
+metafile = true
+
+[[files]]
 file = "mods/vitalize.pw.toml"
 hash = "ec561648b8bc606f603a15567e3df5ccdd34e26f61098fa5f4525e102d248f4b"
 metafile = true
@@ -542,6 +567,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "4524a26b66ece7c58951ea75e91aa56971f0a5e8ccb1cf7ac10b2c31aae2cf78"
+metafile = true
+
+[[files]]
+file = "mods/wakes.pw.toml"
+hash = "999a595638a5bce2e5be21f1f55aec5fdf31d94e2329352706b87572267b014d"
 metafile = true
 
 [[files]]
