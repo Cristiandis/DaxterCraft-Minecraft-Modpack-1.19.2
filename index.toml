@@ -380,6 +380,11 @@ hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
 metafile = true
 
 [[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "0ad13eef540e0ef5c76199eef9ab0a1f0e75af2ba3466b1acde8b75caf2b272b"
+metafile = true
+
+[[files]]
 file = "mods/occlusion-culling-fix-sodium.pw.toml"
 hash = "6376089e015378145857ba665a8db139a1c578c36e09313381852cebf84dab04"
 metafile = true
