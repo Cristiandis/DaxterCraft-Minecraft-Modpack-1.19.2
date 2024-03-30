@@ -65,11 +65,6 @@ hash = "cb6569ee5925a5d97eb0c6465826f011961e922981def2ac4606f52a7de934d5"
 metafile = true
 
 [[files]]
-file = "mods/blur-fabric.pw.toml"
-hash = "309fa9d0ab190059d9a13933db512f36f01ec0b40f37fa6e919ec085c686df9e"
-metafile = true
-
-[[files]]
 file = "mods/botarium.pw.toml"
 hash = "ededb5f6acc81df09989c2bd2e738413372638d66372af51543d7e7cbc2a049b"
 metafile = true
