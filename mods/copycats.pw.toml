@@ -1,13 +1,13 @@
 name = "Create: Copycats+"
-filename = "Copycats-fabric.1.19.2-1.2.2.jar"
+filename = "Copycats-fabric.1.19.2-1.2.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/UT2M39wf/versions/DxYOe2Ym/Copycats-fabric.1.19.2-1.2.2.jar"
+url = "https://cdn.modrinth.com/data/UT2M39wf/versions/hJh4t3fm/Copycats-fabric.1.19.2-1.2.5.jar"
 hash-format = "sha1"
-hash = "d02fac6c7521b0097a7f446997a906c9c0e98f67"
+hash = "ebd2417c2216fdf268a7c6a75c75afba6757d794"
 
 [update]
 [update.modrinth]
 mod-id = "UT2M39wf"
-version = "DxYOe2Ym"
+version = "hJh4t3fm"

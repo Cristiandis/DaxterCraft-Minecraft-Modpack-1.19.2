@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "7f8ad492cd7de39eb956a80e3b1292592e9224f6e46eeeec5c451d20ee8c6b78"
+hash = "bb8ae5c9f121ba0e2d617eaeb528aa0a0aaa3b76eaa7ea156d23883c5ba55571"
 metafile = true
 
 [[files]]
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-utilities.pw.toml"
-hash = "c66595c79cb5b34e1f29dbf272ff13e9640f0de357042d884e791c3a874ab817"
+hash = "ee9e09eb59f4cdde1edc9442e7c2c36f995c7365f8aca2b7dcfbc58b50a8db49"
 metafile = true
 
 [[files]]
@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "8177a47aff4e87511946b64ed2e52454a13d749e0df75ecbdcaef40912b6b497"
+hash = "f5d32a51c64d7274a8c7a0fc6b928db246afe96a6fadc0efa2dba52538e3e054"
 metafile = true
 
 [[files]]
@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "8ab2cd08567bb49f2e8fec1ee42036a3897e259e2b5c2ddd7f15bf1835be1c24"
+hash = "e843a74503863e7ce8974473307194c9be07dadafb559aa144f355d94cf8715b"
 metafile = true
 
 [[files]]
@@ -401,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "c08e130538d767aceb552ce3b060a3a7de0383c4cc731ee995aaeb5c83a593d3"
+hash = "964759e91382cf8a68d94662a9cd4edf8c2531fec934666185cb6efc38875576"
 metafile = true
 
 [[files]]
@@ -426,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "4a362e60bced90553a9eee9717e1a2b7cc3537b1c16e6ca9f423562062a46b68"
+hash = "b82aa90ee9ee219151aab705d1926dfa6b03ce4cef703cac662accfa215ce461"
 metafile = true
 
 [[files]]
@@ -546,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "35662ef47ed624da31c44a98149a3196565a1252a5cccf35c701945df0e51d17"
+hash = "ea54599083767022492eaa76cce7cafe40103d3a015b8012dc34761e464d0ed0"
 metafile = true
 
 [[files]]
@@ -556,7 +556,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "0ac5d550c5b1483b2993492cc4179c9158b5251459a36493ba37a49d1746996c"
+hash = "51aeef2909959901b1989d8756855375396c68f09b9a15bd00466d08e4cb6c4d"
 metafile = true
 
 [[files]]
@@ -596,12 +596,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "efc940ce153d8c82640cc5785b2843d9b0d640df2ffcf045c31fe022df56508f"
+hash = "4553c062ea2869798aa34acc01ea1c665c1dd84c6ef1ea562d87343b8df06e0c"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "935e8c49c9fb279eb7c540cbb73635fa9780a029adf4292a108de41017d6ff9a"
+hash = "067209a0e0ee5ed59f1cc0bd7a21e927727ccd2a5f67bcea14c2fe61234eb050"
 metafile = true
 
 [[files]]
