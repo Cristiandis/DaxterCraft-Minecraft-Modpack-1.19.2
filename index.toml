@@ -590,6 +590,11 @@ hash = "2239517e476557fa1e8f7d8268fccaf88d65d08b215d8baa3d5dafc15ddebf53"
 metafile = true
 
 [[files]]
+file = "mods/webstreamer.pw.toml"
+hash = "4f2bdd95b949181028ba388d4c72b2b971f9b950b0a6034ee4d4f954126069de"
+metafile = true
+
+[[files]]
 file = "mods/whocosmetics.pw.toml"
 hash = "17d4c0e923fcb0ff8e607117a334fc42d7ea80d3bb8648c74d2ef495e1bbd3af"
 metafile = true
