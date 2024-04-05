@@ -565,11 +565,6 @@ hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
 
 [[files]]
-file = "mods/video-player.pw.toml"
-hash = "ace5c6b7b15d4f4751568d2c6369c756d385dbd478bcdea44c54beedb2062ba4"
-metafile = true
-
-[[files]]
 file = "mods/visuality.pw.toml"
 hash = "151a53057bd6f757ff073dd8f8344b354f872f0dc4d236daad3fffea5de0b7dc"
 metafile = true
@@ -587,11 +582,6 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "4524a26b66ece7c58951ea75e91aa56971f0a5e8ccb1cf7ac10b2c31aae2cf78"
-metafile = true
-
-[[files]]
-file = "mods/watermedia.pw.toml"
-hash = "92dad42d2a70ef0c5ff11afe1e8c475acca56ec7a5937a13fb70ede0ad38ffe8"
 metafile = true
 
 [[files]]
